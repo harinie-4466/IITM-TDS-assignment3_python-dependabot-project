@@ -2,8 +2,7 @@
 
 
 
-This project is created for CI configuration testing...
-
+This project is created for CI configuration testing.
 
 
 24f1002782@ds.study.iitm.ac.in
