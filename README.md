@@ -2,7 +2,7 @@
 
 
 
-This project is created for CI configuration testing.
+This project is created for CI configuration testing...
 
 
 
